@@ -1,1 +1,1 @@
-# PayCor
+# PayCor repository
